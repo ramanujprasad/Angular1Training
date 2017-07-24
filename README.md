@@ -8,24 +8,21 @@ Code has been zipped in to 3 sections
 
 ## Angular_Training_Part_1
 
-Sub topics
-App : Bootstrap 
-Basic : Controller, Expression, First app 
-Directive : Custom, Predefined
-Event : Mouse event, ng click 
-Scope : Broadcast, Emit, Inherited scope, RootScope, Watch, Scope
+* App : Bootstrap 
+* Basic : Controller, Expression, First app 
+* Directive : Custom, Predefined
+* Event : Mouse event, ng click 
+* Scope : Broadcast, Emit, Inherited scope, RootScope, Watch, Scope
 
 ## Angular_Training_Part_2
 
-Sub topics
-Directive : Custom
-Filter : Custom, Predefined
-Module : module
-Services : Custom, Predefined
+* Directive : Custom
+* Filter : Custom, Predefined
+* Module : module
+* Services : Custom, Predefined
 
 ## Angular_Training_Part_3
 
-Sub topics
-Routing : ngRoute
-Validation: form validation
-Exception: exception handling
+* Routing : ngRoute
+* Validation: form validation
+* Exception: exception handling
