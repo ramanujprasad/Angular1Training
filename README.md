@@ -1,6 +1,6 @@
 ## Angular 1 Training Demos
 
-These are set of demo files created for learning/training purposes. Angular 1 has been used in these demos.
+These are set of demo files created for learning/training purposes. It was created during conducting training session for my previous team in India. Angular version 1.3.7 has been used in these demos.
 
 It has topic-wise angular example to understand it from scratch. 
 
